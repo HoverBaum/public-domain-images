@@ -19,6 +19,10 @@ A curated list of public domain image resources.
  - [Startup Stock Photos](http://startupstockphotos.com/) - Statup related photos
  - [travelcoffeebook](http://travelcoffeebook.com/) - Images from travels
 
+## Videoclips
+
+- [coverr.co](http://coverr.co/)
+
 # Contribution
 
 Please feel free to open issues and pull-requests to help this list grow.

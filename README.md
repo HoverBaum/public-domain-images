@@ -4,11 +4,14 @@ A curated list of public domain image resources.
 
 ## General image collections
  - [fancycrave.com](http://fancycrave.com/) 
+ - [goodfreephotos.com/](http://goodfreephotos.com/)
  - [jaymantri.com](http://jaymantri.com/)
  - [lifeofpix.com](http://www.lifeofpix.com/)
  - [pexels.com](http://www.pexels.com/)
  - [picography.co](http://picography.co/)
  - [re:splash](http://www.resplashed.com/)
+ - [stockfotos.io](https://stockphotos.io/)
+ - [stocksnap.io](https://stocksnap.io/)
  - [unsplash.com](https://unsplash.com/)
 
 ## More specialized collections
@@ -22,6 +25,12 @@ A curated list of public domain image resources.
 ## Videoclips
 
 - [coverr.co](http://coverr.co/)
+ 
+
+## More Resources
+The above should have you covered. If not you can find more at these links:
+- http://www.digitalimpact.co.uk/ultimate-list-of-free-stock-photos/
+
 
 # Contribution
 

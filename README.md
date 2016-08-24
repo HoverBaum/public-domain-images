@@ -1,4 +1,6 @@
 # public domain images
+
+[![Project Status: Inactive - The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
 ![Landscape](https://ununsplash.imgix.net/reserve/8S64npOgTu2eWTZIXEfy_DSC_0955.JPG)
 A curated list of public domain image resources.
 

@@ -39,6 +39,7 @@ A curated list of public domain image resources.
 ## More Resources
 The above should have you covered. If not you can find more at these links:
 - http://www.digitalimpact.co.uk/ultimate-list-of-free-stock-photos/
+- https://en.99designs.de/blog/resources/public-domain-image-resources/
 
 
 # Comments, Questions, Concerns?
